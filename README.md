@@ -1,10 +1,10 @@
-# PadroesGRASP
+# Padroes GRASP (General responsibility assignment software patterns)
 
-## Padrões implementados para disciplina de Métodos avançados de programação do curso de Ciências da Computação - UEPB
+### Padrões implementados para disciplina de Métodos avançados de programação do curso de Ciências da Computação - UEPB
 
-### Parceiro nos trabalhos: <a href=https://github.com/JoanesMiranda>Joanes Miranda</a>
+#### Parceiro nos trabalhos: <a href=https://github.com/JoanesMiranda>Joanes Miranda</a>
 
-### Padrões Implementados :
+#### Padrões Implementados :
 - Expert
 - Creator
 - Coesão e Acoplamento
